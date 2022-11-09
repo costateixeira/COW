@@ -7,15 +7,19 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 
-id: my-ig
-canonical: http://example.com/fhir/example
-url: http://example.com/fhir/example/ImplementationGuide/my-ig
-name: ExampleIG
-title: "HL7 FHIR Implementation Guide: Example IG Release 1 - US Realm | STU1"
-description: Example IG exercises many of the fields in a SUSHI configuration.
+id: hl7.fhir.uv.cow
+canonical: http://hl7.org/fhir/uv/sdc
+url: http://hl7.org/fhir/uv/sdc/ImplementationGuide/hl7.fhir.uv.cow
+name: ClinicalOrderWorkflows
+title: "HL7 FHIR Implementation Guide: Clinical Order Workflows
+description: """This specification provides...
+This includes...:
+* ....
+* ....
+"""
 status: active
 license: CC0-1.0
-date: 2020-02-26
+date: 2022-11-04
 version: 1.0.0
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
