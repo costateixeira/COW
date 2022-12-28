@@ -12,11 +12,7 @@ canonical: http://hl7.org/fhir/uv/sdc
 url: http://hl7.org/fhir/uv/sdc/ImplementationGuide/hl7.fhir.uv.cow
 name: ClinicalOrderWorkflows
 title: "HL7 FHIR Implementation Guide: Clinical Order Workflows
-description: """This specification provides...
-This includes...:
-* ....
-* ....
-"""
+description: "This specification provides guidance on driving and monitoring the workflows for clinical orders using FHIR resources"
 status: active
 license: CC0-1.0
 date: 2022-11-04
